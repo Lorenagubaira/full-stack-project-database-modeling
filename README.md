@@ -8,7 +8,7 @@ authors: ["arnaldoperez"]
 
 ## How to get started?
 
-1. Log on to (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] and create a new diagram.
+1. Log on to [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com/) and create a new diagram.
 2. Make sure all your teammates are also logged in and invite them via email (Only one team member should do this step).
 3. Then you can start creating your model and later share it.
 
