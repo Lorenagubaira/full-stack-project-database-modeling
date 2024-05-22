@@ -8,18 +8,20 @@ authors: ["arnaldoperez"]
 
 ## ¿Cómo empezar?
 
-1. Inicia sesión en (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] y crea un nuevo diagrama.
+1. Inicia sesión en [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com) y crea un nuevo diagrama.
 2. Asegúrate que todos tus compañeros de equipo tambien hayan iniciado sesión e invitalos mediante su correo electrónico (Solo un miembro del equipo debe hacer este paso)
 3. Luego podrás empezar a crear tu modelo y posteriormente compartirlo.
 
 ## 📝Instrucciones
 
-Create a data model (a.k.a Entity Relationship Diagram) using the CrowFoot Notation and based on the user stories you have defined for your project. This action can also help you evaluate the scope you have defined for it.
+Crear un modelo de datos (también conocido como Diagrama de Entidad-Relación) usando la Notación CrowFoot y basado en las historias de usuario que has definido para tu proyecto. Esta acción también puede ayudarte a evaluar el alcance que has definido para el mismo.
 
-- If you notice that you need too many tables and that making transactions for each one of them will take more time than available, you can adjust the functionalities you will include in your final project.
-- Your project must have authentication, meaning you will probably have a User table for the credentials.
-Ask yourself: Which things do I need to add, remove, delete, or update on my project? This is a great tool for identifying the necessary tables.
-- How will those tables connect or relate with each other? One to one? One to many? Many to many?
-- Remember that many-to-many relationships require an additional (pivot) table as a connector.
+- Si notas que necesitas demasiadas tablas y que realizar transacciones para cada una de ellas tomará más tiempo del disponible, puedes ajustar las funcionalidades que incluirás en tu proyecto final.
+- Tu proyecto debe tener autenticación, lo que probablemente signifique que tendrás una tabla de Usuario para las credenciales.
+  
+Pregúntate: ¿Qué cosas necesito agregar, eliminar, borrar o actualizar en mi proyecto? Esta es una excelente herramienta para identificar las tablas necesarias.
 
-Once you have finished the model, [share the link in public](https://4geeks.com/lesson/learn-in-public) for better learning.
+- ¿Cómo se conectarán o relacionarán esas tablas entre sí? ¿Uno a uno? ¿Uno a muchos? ¿Muchos a muchos?
+- Recuerda que las relaciones muchos a muchos requieren una tabla adicional (pivot) como conector.
+
+Una vez que hayas terminado el modelo, [comparte el enlace en público](https://4geeks.com/es/lesson/aprender-en-publico) para un mejor aprendizaje.
