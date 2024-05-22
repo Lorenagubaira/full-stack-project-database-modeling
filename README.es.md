@@ -14,6 +14,12 @@ authors: ["arnaldoperez"]
 
 ## 📝Instrucciones
 
-Crea un modelo de datos basado en las historias de usuario que has definido para tu proyecto. Esto también puede servirte para evaluar el alcance que has definido para este, si notas que necesitas demasiadas tablas y que hacer transacciones para cada una de ellas te va a tomar mas tiempo de lo disponible, puedes ajustar las funcionalidades que incluirás en tu proyecto final.
+Create a data model (a.k.a Entity Relationship Diagram) using the CrowFoot Notation and based on the user stories you have defined for your project. This action can also help you evaluate the scope you have defined for it.
 
-Once you have finished the model be sure to share the link for review.
+- If you notice that you need too many tables and that making transactions for each one of them will take more time than available, you can adjust the functionalities you will include in your final project.
+- Your project must have authentication, meaning you will probably have a User table for the credentials.
+Ask yourself: Which things do I need to add, remove, delete, or update on my project? This is a great tool for identifying the necessary tables.
+- How will those tables connect or relate with each other? One to one? One to many? Many to many?
+- Remember that many-to-many relationships require an additional (pivot) table as a connector.
+
+Once you have finished the model, [share the link in public](https://4geeks.com/lesson/learn-in-public) for better learning.
